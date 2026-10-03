@@ -135,3 +135,7 @@ def get_riser_intraday(todays_date:datetime, n_companies:int = 5) -> dict[str,li
         {ticker:List[float]}: dicts of a ticker and its prices
     """
     return stocks.getIntradayRiser(todays_date,n_companies)
+
+
+if __name__ == "__main__":
+    mcp.run()

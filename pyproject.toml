@@ -9,6 +9,7 @@ dependencies = [
     "egxpy",
     "httpx>=0.28.1",
     "mcp[cli]>=1.26.0",
+    "streamlit",
 ]
 
 [tool.uv.sources]
