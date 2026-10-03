@@ -12,4 +12,4 @@ dependencies = [
 ]
 
 [tool.uv.sources]
-egxpy = { git = "https://github.com/egxlytics/egxpy.git" }
+egxpy = { git = "https://github.com/mmabas77/egxpy.git" }
